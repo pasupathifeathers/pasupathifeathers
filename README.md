@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Pasupathi Feathers](https://github.com/pasupathifeathers)
+# Hi there 👋, I'm [Pasupathi](https://github.com/pasupathifeathers)
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** with expertise in **MERN Stack**, **Python**, **Redux**, and **React Native**. Currently, I'm working at **Feather Software**. I love building scalable, efficient, and beautiful web and mobile applications that deliver great user experiences.
@@ -23,13 +23,10 @@ I'm a passionate **Full-Stack Developer** with expertise in **MERN Stack**, **Py
 - 📱 **React Native** (Mobile Development)
 - 🛠️ **Express.js**
 - ⚙️ **MongoDB** (Database)
-- 💻 **Next.js** (SSR)
 
 **Tools & Platforms:**
 - 🔧 **Git & GitHub**
-- 🗂️ **Docker**
 - 🛠️ **Firebase**
-- 🚀 **AWS**
 
 ## 🌱 Current Focus
 
@@ -45,9 +42,8 @@ I'm a passionate **Full-Stack Developer** with expertise in **MERN Stack**, **Py
 
 I'm always open to new collaborations, tech discussions, and networking. Feel free to reach out to me:
 
-- 📧 [email@example.com](mailto:email@example.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
+- 📧 [pasupathi0757@gmail.com](mailto:pasupathi0757@gmail.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/pasupathi07777)
 
 ## ⚡ Fun Fact
 
